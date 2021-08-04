@@ -1,0 +1,19 @@
+---
+title: "ET1"
+---
+- 3D printing [3D-printing](Others/3D-printing.md)		
+ - 4G and 5G cellular communications [4G and 5G cellular communications](4G-and-5G-cellular-communications.md)
+ - artificial intelligence [artificial intelligence](artificial-intelligence.md)
+ - augmented reality[Augmented reality](Augmented-reality.md)
+ -  biometrics [biometrics](biometrics.md)
+ -  cloud computing [Cloud Computing](Cloud-Computing.md)
+ -  computer-assisted translation 
+ -  holographic [Holo](Holo.md)
+ -  quantum cryptography [quantum cryptography](quantum-cryptography.md)
+ -  robotics [ Robotics](-Robotics.md)
+ -  QR codes [QR Codes](QR-Codes.md)
+ -  wearable computing [Wearables](Wearables.md)
+ -  ultra-high definition television[high definition television systems](high-definition-television-systems.md) 
+ -  vision enhancement[Visual Assitants](Visual-Assitants.md)
+ -   [Virtual Reality](Virtual-Reality.md) [VR1](VR1.md)
+ -   Automated Online Assistant [automated online assistant](automated-online-assistant.md)

@@ -1,0 +1,17 @@
+---
+title: "Test Plan Importance "
+--- 
+Test Plan Importance:
+- Provides overview of all the testing  
+- ...systematic outline of all features/functionality  
+- ...continuously updated to reflect risks  
+- To ensure that all aspects of running a test are considered  
+- To train those who need to assist with the test
+- Provides a mechanism for outlining test needs  
+  - ...lists limitations  
+  - ...lists reasons for testing so testing can be effective  
+- Ensures that legal regulations are met  
+  - ...to show regulatory bodies that testing has been carried out
+
+
+

@@ -1,0 +1,16 @@
+---
+title: " Holography Optical Disk"
+---
+- Green and red lasers used
+- Light from both is sent in parallel stream/collimated
+- There is minimal divergence
+- Output about 1 watt
+- Green laser reads the data from top layer of disc
+- Data stored as holographic laser interference patterns
+- Red laser reads reference data stored on aluminium layer at/near bottom ofbdisc layers
+- This is the servo information for accurately aligning the read head position over the disc
+- A (dichroic) mirror allows the red laser light to pass while reflecting the green layer
+- Stores c. 60 000 bits per pulse in densely packed tracks
+- Compared to a single/one bit per pulse for current optical storage
+- Can store 100 GB to 1 TB
+- Phase storage systems can store more data. 

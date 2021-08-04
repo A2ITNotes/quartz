@@ -1,12 +1,10 @@
-name: Jacky Zhao
+name: Muadh Monsur
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Notes for Alevels students studing Information technology 9626
+  All notes are sourced form past papers mark scheme. 
 page_title:
-  Quartz Example Page
+  A2 Notes
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/A2ITNotes

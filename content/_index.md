@@ -1,23 +1,84 @@
-# 🌱 Quartz
-## v1.1
+---
+title: " Main Directory "
+---
 
-Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
-## Why Quartz?
-Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
+# ⚛️ Information Technology Advanced Theory (A2 9626)
+\
+<tab>
+### 📱 Chapter 11 (Emerging Technologies):
+- [Chapter-11-Emerging-Technologes](./Chapter-11-Emerging-Tech/Chapter-11-Emerging-Technologes.md)
+\
+\
+\
+<tab>
+###  🤳 Chapter 12 Role and impact of IT in society:
+- [Chapter-12-Role-and-impact-of-IT-in-society](Chapter-12-IT-On-Society/Chapter-12-Role-and-impact-of-IT-in-society.md)
+\
+\
+\
+<tab>
+### 💽 Chapter 13 Networks:
+- [Chapter-13-Networks](Chapter-13-Networks/Chapter-13-Networks.md)
+\
+\
+\
+<tab>
+### 🕰️ Chapter 14 Project Management:
+- [Chapter-14-Project-Management](Chapter-14-Project-Management/Chapter-14-Project-Management.md)
+\
+\
+\
+<tab>
+###  🌀 Chapter 15 System Life Cycle:
+- [Chapter-15-System-Life-Cycle](Chapter-15-System-Life-Cycle/Chapter-15-System-Life-Cycle.md)
+\
+\
+\
+<tab>
+### 🖌️  Chapter 16 Graphics Creation:
+- [Chapter-16-Graphics-Creation](Chapter-16-Graphics-Creation/Chapter-16-Graphics-Creation.md)
+\
+\
+\
+<tab>
+ ### ✒️ Chapter 17 Animation:
+- [Chapter-17-Animation](Chapter-17-Animation/Chapter-17-Animation.md)
+\
+\
+\
+<tab>
+###  📧 Chapter 18 Mail Merge:
+- [Chapter-18-Mail-Merge](Chapter-18-Mail-Merge/Chapter-18-Mail-Merge.md)
+\
+\
+\
+<tab>
+### 🌐 Chapter 19 Javascript:
+- [Chapter-19-Programming-For-the-Web](Chapter-19-Javascript/Chapter-19-Programming-For-the-Web.md)
+\
+\
+\
+<tab>
+- [UnLinked](UnLinked.md)
+\
+\
+\
+<tab>
+### ⛔Important Notice ⛔
+- [Important Notice ](Important-Notice.md)
 
-I've personally found that 
-1. It's nice to access notes from anywhere
-2. Having a public digital garden invites open conversations
-3. It makes keeping personal notes and knowledge *playful and fun*
+\
+<tab>
+> _The secret to getting ahead is getting started_.
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+<br>
 
-I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.
+>  _It’s not going to be easy, but it’s going to be worth it._
 
-**The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
+<br>
 
-## Get Started
-The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
-
-👉  [Directory](moc/directory.md)
+>  _It is every man’s obligation to put back into the world at least the equivalent of what he takes out of it._
+<br>
+\
+<tab>
