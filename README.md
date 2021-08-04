@@ -2,7 +2,7 @@
 
 Notes for Alevels students studing Information technology 9626
 
-All notes are sourced form past papers mark scheme. 
+All notes are sourced from the official marking schemes. 
 
 The sturucture of the website is based on the syllabus. So if there is any bullet point you dont know yet, better get studing!
 
