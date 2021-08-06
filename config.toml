@@ -25,11 +25,9 @@ ignoreFiles = [
         lineNumbersInTable = true
         style = "dracula"
         tabWidth = 4
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-29B6KQXED7"></script>
-<script>
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-29B6KQXED7');
-</script>
