@@ -1,9 +1,7 @@
 ---
 title: "role of Router"
 ---
-![[Others/Pasted image 21060413.png]]
 
-![[Pasted image 2106041547.png]]
 - Anti-malware/virus/spyware software to protect against viruses and spyware.
 + Firewall (software or hardware) to help to prevent unauthorised access to company network
 - Firewall to help to prevent unauthorised access to files stored by cloud storage provider
@@ -21,7 +19,7 @@ Passwords and user IDs should be required by the access/firewall software
 before allowing devices to connect/access.
 
 
-
+![rout](/Images/routera-h.png)
 
 Locations B and C are open to the public/any device can connect so there is
 no secure connection at these locations

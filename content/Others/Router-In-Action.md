@@ -1,7 +1,7 @@
 ---
 title: "Router In Action"
 ---
-![Pasted image 210413103031.png](Images/Pasted%20image%20210413103031.png)
+![rout](/Images/routersending.png)
 - Each router has a stored lookup table of IP addresses/routes to the next router/network
 - Routing table is stored at control plane of router
 - Routing table used to choose next router/router to which to send packet
@@ -15,20 +15,7 @@ router/E or F
 
 
 ## 2
-![Pasted image 210423105648.png](Pasted%20image%20210423105648.png)
-
-- Each packet sent by network A takes a different route through the network
-- Each packet has source/destination address stored in header
-- Each router has a stored lookup table of IP addresses/routes to the destination (if known)
-- Routing table is stored at control plane of router
-- Used to choose next router/router to send packet to
-- Static routes are pre-programmed to show route to destination B to C to E to
-G
-- Dynamic routing protocols build up table of preferred routes between connected networks B to C to F to G if router E is inefficient/out of action/in heavy demand
-If destination is unknown router B will send packet to next known router, C
-or D
-If C/D router does not know destination to H then packet is sent onto next
-router, E or F. 
+ 
 
 ### Why C doest send to D
 Router D may be not responding

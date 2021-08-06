@@ -1,7 +1,7 @@
 ---
 title: "🔥Firewall Example "
 --- 
-![[Others/Pasted image 210428103741.png]]
+
 
 DMZ in a network:
 - Installation of additional (to separate the servers from internal network)
@@ -15,7 +15,7 @@ DMZ in a network:
 - Internal firewall is configured to allow traffic from DMZ to enter company LAN.
 
 ---
-
+![two firewall](/Images/firewall.png)
 Benefits Of Two Firewalls
 
 - The extra firewalls means that any attacker that gets past the first firewall would have to get past the second to access the company LAN

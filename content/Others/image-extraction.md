@@ -1,8 +1,8 @@
 ---
 title: "image extraction "
 --- 
-![[Pasted image 2106041927.png]]
 
+![images](/Images/lady.png)
 Photographs opened in image editor
 Person image cut out from photograph 1/Fig. 10.1
 Mask around person is created to cover background

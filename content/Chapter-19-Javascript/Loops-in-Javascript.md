@@ -1,8 +1,8 @@
 ---
 title: "Loops in Javascript"
 ---
-![[Pasted image 210402113954.png]]
 
+![loop](/Images/javascript.png)
 - Code is embedded within the body HTML code
 - (global) variable (tableout) is declared
 - The HTML table values are placed within the variable
