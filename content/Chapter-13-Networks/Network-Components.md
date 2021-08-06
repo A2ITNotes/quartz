@@ -1,0 +1,15 @@
+---
+title: "Network Components"
+---
+-  switches
+-  hubs
+-  wireless
+-  access points
+-   network interface cards[Network-Interface-Card](Others/Network-Interface-Card.md)
+-  wireless network interface cards
+-  routers[Network-Router](Others/Network-Router.md)
+-  repeaters
+-  gateways [Gateway-Address](Others/Gateway-Address.md)
+-  bridge
+-  firewalls (hardware and software)
+-   servers

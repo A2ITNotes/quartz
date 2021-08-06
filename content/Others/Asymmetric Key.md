@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Key "
+title: "🔑Asymmetric Key "
 --- 
 Advantages of Asymmetric key:
 -  uses different keys to encrypt and decrypt

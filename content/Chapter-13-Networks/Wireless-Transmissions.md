@@ -1,0 +1,11 @@
+---
+title: "Wireless Transmissions"
+---
+- Bluetooth® [Bluetooth](Others/Bluetooth.md)
+-  infrared
+-  WiFi [Wifi-Signal-Weakining](Others/Wifi-Signal-Weakining.md)
+- [How-data-transfer-on-wifi-works](Others/How-data-transfer-on-wifi-works.md)
+-  radio
+- advantages & disadvantages 
+- their typical applications
+- [Others/Wireless-Connection](Others/Wireless-Connection.md)

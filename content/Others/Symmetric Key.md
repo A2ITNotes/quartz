@@ -1,5 +1,5 @@
 ---
-title: "Symmetric Key "
+title: "🗝️Symmetric Key "
 --- 
 Advantages of symmetric keys:
 

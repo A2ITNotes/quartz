@@ -14,8 +14,8 @@ Bitmaps:
 
 
 
-[[how a bitmap (‘raster’) graphic is stored in a computer file]]
+[how-a-bitmap-raster-graphic-is-stored-in-a-computer-file](Others/how-a-bitmap-raster-graphic-is-stored-in-a-computer-file.md)
 
-[[Compression of bitmap]]
+[Compression-of-bitmap](Others/Compression-of-bitmap.md)
 
-[[bitmap image example]]
+[bitmap-image-example](Others/bitmap-image-example.md)

@@ -1,9 +1,9 @@
 ---
 title: "PM6"
 ---
-• describe disaster recovery management
-	-  [[Risk Analysis]]
-	-   [[Perpetrator analysis]]
+- describe disaster recovery management
+	-  [Risk-Analysis](Others/Risk-Analysis.md)
+	-   [Perpetrator-analysis](Others/Perpetrator-analysis.md)
 	-   risk testing
 	-   quantifying the risk
 	-   securing the risk

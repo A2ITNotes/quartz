@@ -1,10 +1,9 @@
 ---
-title: "Wearables"
+title: "⌚ Wearables"
 --- 
-[use of wearable computers by the police.](use-of-wearable-computers-by-the-police..md)
 
-[IT And Sports](IT-And-Sports.md)
+- [use-of-wearable-computers-by-the-police](Others/use-of-wearable-computers-by-the-police.md)
+- [IT And Sports](Others/IT-And-Sports.md)
+- [wearable-computers-in-manufacturing](Others/wearable-computers-in-manufacturing.md)
 
-[wearable computers in manufacturing](wearable-computers-in-manufacturing.md)
-
-[Wearable In Healthcare](Wearable-In-Healthcare.md)
+- [Wearable-In-Healthcare](Others/Wearable-In-Healthcare.md)

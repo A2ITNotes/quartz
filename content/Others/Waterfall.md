@@ -1,5 +1,5 @@
 ---
-title: "Waterfall "
+title: "🌊Waterfall "
 --- 
 Waterfall Method:
 
@@ -21,6 +21,7 @@ Waterfall Method:
 - Develop support mechanisms for users of the game application
 - Deliver/implement the finished product. 
 
-[[Benefits And drawback of waterfall]]
+[Benefits-And-drawback-of-waterfall](Others/Benefits-And-drawback-of-waterfall.md)
 
-[[Main Phases in Waterfall ]]
+
+[Main-Phases-in-Waterfall](Others/Main-Phases-in-Waterfall.md)

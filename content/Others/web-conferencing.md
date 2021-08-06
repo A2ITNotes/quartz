@@ -9,8 +9,8 @@ Web Conferencing:
 - Collaborative interaction between users
 
 ---
-[[ web-conferencing internet technologies]]
+[ Others/web-conferencing-internet-technologies](Others/web-conferencing-internet-technologies.md)
 
-[[Requirements for web conference]]
+[Requirements-for-web-conference](Others/Requirements-for-web-conference.md)
 
-[[Web conference Application Features]]
+[Web-conference-Application-Features](Others/Web-conference-Application-Features.md)

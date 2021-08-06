@@ -1,14 +1,14 @@
 ---
-title: "Robotics"
+title: "🤖 Robotics"
 ---
-[[Robotic And Environment]]
+[Others/Robotic-And-Environment](Others/Robotic-And-Environment.md)
 
-[[Teaching Robots Positions]]
+[Others/Teaching-Robots-Positions](Others/Teaching-Robots-Positions.md)
 
-[[Define Robotics]]
+[Others/Define-Robotics](Others/Define-Robotics.md)
 
-[[Advantage and disadvantages of robotics and AI]]
+[Advantage-and-disadvantages-of-robotics-and-AI](Others/Advantage-and-disadvantages-of-robotics-and-AI.md)
 
-[[Robotics in Space Exploration]]
+[Others/Robotics-in-Space-Exploration](Others/Robotics-in-Space-Exploration.md)
 
-[[robotics in the delivery of goods]]
+[Others/robotics-in-the-delivery-of-goods](Others/robotics-in-the-delivery-of-goods.md)

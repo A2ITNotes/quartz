@@ -1,10 +1,12 @@
 ---
 title: " holography"
 --- 
-[Holography In Medicine](Holography-In-Medicine.md)
+[Holography-In-Medicine](Others/Holography-In-Medicine.md)
 
-[Holography Optical Disk](Holography-Optical-Disk.md)
+[Holography Optical Disk](Others/Holography-Optical-Disk.md)
 
-[How are holograms formed](How-are-holograms-formed.md)
+[How-are-holograms-formed](Others/How-are-holograms-formed.md)
 
-[Uses of Holograms](Uses-of-Holograms.md)
+[Uses-of-Holograms](Others/Uses-of-Holograms.md)
+
+

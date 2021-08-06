@@ -1,8 +1,9 @@
 ---
 title: "VR1"
 ---
-- medicine [[Virtual reality in healthcare]]
+- medicine [Others/Virtual-reality-in-healthcare](Others/Virtual-reality-in-healthcare.md)
 - manufacturing
 -  space exploration
 
-- [[VR in firefighting training]]
+- [Others/VR-in-firefighting-training](Others/VR-in-firefighting-training.md) 
+- [Virtual-Reality](Others/Virtual-Reality.md)

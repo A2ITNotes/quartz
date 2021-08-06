@@ -1,7 +1,8 @@
 ---
 title: " e-business"
 --- 
-Advantages of e-business on society:
+
+## Advantages of e-business on society:
 
 - E-business can be more convenient for shoppers
 - No need to travel saves time of going to shopping malls
@@ -14,10 +15,8 @@ Advantages of e-business on society:
 - E-business can operate 24–7 with no shutdown time
 - A global marketplace has been set up by e-businesses
 ---
----
-title: " "
---- 
-Disadvantages of e-business on society:
+
+## Disadvantages of e-business on society:
 
 - Loss of jobs around the world due to closure of conventional business/shops
 - Increase in fraud due to online transactions not being secure

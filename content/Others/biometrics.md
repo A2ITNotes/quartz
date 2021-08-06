@@ -1,4 +1,4 @@
 ---
 title: "biometrics "
 --- 
-[Advantages and Disadvantages of Biometrics](Advantages-and-Disadvantages-of-Biometrics.md)
+[Advantages and Disadvantages of Biometrics](Others/Advantages-and-Disadvantages-of-Biometrics.md)

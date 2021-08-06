@@ -12,10 +12,8 @@ Bit-torrent:
 - Used by social media/microblogs to distribute updates to servers
 - Used to stream videos
 - Used to transfer large files using minimum bandwidth.
-- ---
 ---
-title: " "
---- 
+
 - BitTorrent protocol:  
 
 - Protocol works well over low-bandwidth connections

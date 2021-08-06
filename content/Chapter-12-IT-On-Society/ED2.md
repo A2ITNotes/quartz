@@ -1,4 +1,4 @@
 ---
 title: "ED2"
 ---
-- [[Data Mining]]
+- [Data-Mining](../Others/Data-Mining.md)

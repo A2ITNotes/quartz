@@ -1,7 +1,7 @@
 ---
 title: "Hacking"
 ---
-[[Trojan]]
-[[DNS Spoofing]]
-[[DoS Attack]]
-[[ARP spoofing]]
+- [Trojan](Trojan.md)
+- [DNS-Spoofing](Others/DNS-Spoofing.md)
+- [Others/DoS-Attack](Others/DoS-Attack.md)
+- [ARP-spoofing](Others/ARP-spoofing.md)
