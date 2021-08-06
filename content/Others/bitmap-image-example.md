@@ -2,7 +2,9 @@
 title: "bitmap image example"
 --- 
 
-![[Pasted image 210427103746.png]]
+
+![Example Image](/content/notes/images/example.png)
+![](Images/Pasted%20image%2020210427103746.png)
 The image in Fig. 1 has been created/saved as a bitmap
 Bitmaps are made of pixels
 The image in Fig. 2 has been saved as a compressed image with too
