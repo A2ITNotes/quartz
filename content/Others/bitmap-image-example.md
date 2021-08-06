@@ -3,8 +3,8 @@ title: "bitmap image example"
 --- 
 
 
-![Example Image](/content/notes/images/example.png)
-![](/Images/Pasted-image-20210427103746.png)
+
+![Example Image](/Images/Pasted-image-20210427103746.png)
 The image in Fig. 1 has been created/saved as a bitmap
 Bitmaps are made of pixels
 The image in Fig. 2 has been saved as a compressed image with too
