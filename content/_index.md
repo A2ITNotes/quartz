@@ -7,7 +7,7 @@ title: " Main Directory "
 \
 <tab>
 ### 📱 Chapter 11 (Emerging Technologies):
-- [Chapter-11-Emerging-Technologes](./Chapter-11-Emerging-Tech/Chapter-11-Emerging-Technologes.md)
+- [Chapter-11-Emerging-Technologes](Chapter-11-Emerging-Tech/Chapter-11-Emerging-Technologes.md)
 \
 \
 \
