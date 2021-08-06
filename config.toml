@@ -26,4 +26,5 @@ ignoreFiles = [
         style = "dracula"
         tabWidth = 4
 
-
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
