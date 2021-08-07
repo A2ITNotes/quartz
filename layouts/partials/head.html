@@ -12,7 +12,7 @@
     {{range $css}}
     {{$sass := resources.Get . | resources.ToCSS }}
     {{with $sass | minify}}
-    {{ template "_internal/google_analytics.html" . }}
+
     <style>
         {{.Content | safeCSS}}
     </style>
