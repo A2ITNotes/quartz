@@ -28,3 +28,4 @@ ignoreFiles = [
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
