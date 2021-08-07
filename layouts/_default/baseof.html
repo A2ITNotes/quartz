@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+{{ template "_internal/google_analytics.html" . }} 
 {{ block "head" . }}
 {{ end }}
-{{ template "_internal/google_analytics.html" . }} 
+
 <body>
 {{ block "main" . }}
 {{ end }}
