@@ -1,3 +1,7 @@
+---
+title: "Definitions"
+--- 
+
 - **bitmap graphics:**
 Graphics that are defined by a matrix of pixels, each of which can be a different colour.
 - **compression**:
