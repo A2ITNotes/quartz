@@ -17,6 +17,6 @@ Audio Bitrate:
 - ...perceived/heard as ‘bubbling/burbling’
 - ...stuttering/jerky in sound. 
 
-[Video-Bitrate](Video-Bitrate.md)
+[Video-Bitrate](Others/Video-Bitrate.md)
  
 #Audio

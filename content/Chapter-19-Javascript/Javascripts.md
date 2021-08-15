@@ -4,7 +4,7 @@ title: "Javascript"
 - [Loops-in-Javascript](Chapter-19-Javascript/Loops-in-Javascript.md)
 - [Use-Of-Comment-In-Javascript](Others/Use-Of-Comment-In-Javascript.md)
 - [Others/Advantages-of-Separating-JavaScript-Code-File](Others/Advantages-of-Separating-JavaScript-Code-File.md)
-- [Benefits-Of-Array](Benefits-Of-Array.md)
+- [Benefits-Of-Array](Others/Benefits-Of-Array.md)
 - [Others/Primitive-Data-Types](Others/Primitive-Data-Types.md)
 - [Variable-In-Javascript](Others/Variable-In-Javascript.md)
 - [Others/Sample-Code](Others/Sample-Code.md)

@@ -17,7 +17,7 @@ Disadvantages of firewall:
 - Firewalls are the central point of attack by hackers/potential intruders and once breached there are no further defences  
 - Firewalls can block legitimate process/applications so manual adjustment of   settings may be required  
 - «can lead to allowing unwanted access by other processes if not   configured by experts  
-- Firewalls are usually incapable of protecting against backdoor [[Trojan]]s that open ports to send data to third parties who can then access the system  
+- Firewalls are usually incapable of protecting against backdoor [[Others/Trojan]]s that open ports to send data to third parties who can then access the system  
 - Firewalls do not usually contain malware removal tools.
 
 [Others/Firewall-Example](Others/Firewall-Example.md)

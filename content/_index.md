@@ -60,13 +60,13 @@ title: " Main Directory "
 \
 \
 <tab>
-- [UnLinked](UnLinked.md)
+- [UnLinked](templates/UnLinked.md)
 \
 \
 \
 <tab>
 ### ⛔Important Notice ⛔
-- [Important Notice ](Important-Notice.md)
+- [Important Notice ](Others/Important-Notice.md)
 
 \
 <tab>
