@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "analytics-gtag.html" . }}
-  {{ end }}
-  ...
- </head>
+{{ block "head" . }}
+{{ end }}
+
 
 <body>
 {{ block "main" . }}
