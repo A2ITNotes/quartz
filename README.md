@@ -1,10 +1,10 @@
 # A2 Notes
 
-Notes for Alevels students studing Information technology 9626
+Notes for A-levels students studying Information Technology 9626 Advanced Theory
 
 All notes are sourced from the official marking schemes. 
 
-The sturucture of the website is based on the syllabus. So if there is any bullet point you dont know yet, better get studing!
+The sturucture of the website is based on the syllabus. So if there is any bullet point you dont know yet, better get studying!
 
 
 
