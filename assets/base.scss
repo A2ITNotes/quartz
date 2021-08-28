@@ -7,12 +7,12 @@
 }
 
 h1, h2, h3, h4, ol, ul, thead {
-  font-family: Montserrat;
+  font-family: Inter;
   color: var(--dark)
 }
 
 p, ul, text {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: var(--gray);
   fill: var(--gray);
 }
@@ -20,7 +20,7 @@ p, ul, text {
 a {
   font-family: Inter;
   font-weight: 700;
-  font-size: 1em;
+  font-size: 5em;
   text-decoration: none;
   transition: all 0.2s ease;
   color: var(--secondary);
