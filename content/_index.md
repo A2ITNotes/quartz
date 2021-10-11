@@ -67,7 +67,7 @@ title: " Main Directory "
 <tab>
 ### ⛔Important Notice ⛔
 - [Important Notice ](Others/Important-Notice.md)
-
+[practicaltips](practicaltips.md)
 \
 <tab>
 > _The secret to getting ahead is getting started_.
@@ -77,7 +77,7 @@ title: " Main Directory "
 >  _It’s not going to be easy, but it’s going to be worth it._
 
 <br>
-
+	
 >  _It is every man’s obligation to put back into the world at least the equivalent of what he takes out of it._
 <br>
 \
