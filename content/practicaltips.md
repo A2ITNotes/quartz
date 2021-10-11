@@ -1,3 +1,6 @@
+---
+title: " Practical Tips "
+---
 - when getting value from textbox or field remember to convert to number by multiplying by 1
 - When checking is a text box is empty use
 	-  "Weight.value =="" "
