@@ -92,35 +92,35 @@ Database:
 Loop Functions:
 
 - **Case Switch **
-- ![](Images/a1.png)
-- ![](Images/a2.png)
+- ![image1](Images/a1.png)
+- ![image2](Images/a2.png)
 \
 \
 \
 
 - **While loop** 
-- ![](Images/a3.png)
+- ![image3](Images/a3.png)
 - 
-- ![](Images/a4.png)
+- ![image4](Images/a4.png)
 \
 \
 \
 
 - **‘do … while’ loop**
-- ![](Images/a6.png)
-- ![](Images/a5.png)
+- ![image6](Images/a6.png)
+- ![image5](Images/a5.png)
 
 \
 \
 
 - **‘for’ loop**
-- ![](Images/a7.png)
-- ![](Images/a8.png)
+- ![image7](Images/a7.png)
+- ![image8](Images/a8.png)
 
 \
 \
 
 - **‘for … in’ loop**
-- ![](Images/a9.png)
-- ![](Images/a10.png)
+- ![image9](Images/a9.png)
+- ![image10](Images/a10.png)
 - 
