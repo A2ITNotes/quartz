@@ -1,6 +1,9 @@
 ---
 title: " Practical Tips "
 ---
+Use DLookUp:
+2017 Villa: DLookUp(" [Villas]![Villa_Name] ","Villas","[Villas]![Villa_id]=" & [Bookings2017]![Villa_id])
+
 - when getting value from textbox or field remember to convert to number by multiplying by 1
 - When checking is a text box is empty use
 	-  "Weight.value =="" "
